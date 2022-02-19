@@ -1,1 +1,6 @@
-com/monochrome/microestore/microestore/MicroestoreApplication.class
+main\java\com\monochrome\microestore\entity\CategoryEntity.class
+main\java\com\monochrome\microestore\entity\OrderEntity.class
+main\java\com\monochrome\microestore\entity\AccountEntity.class
+main\java\com\monochrome\microestore\entity\ProductEntity.class
+main\java\com\monochrome\microestore\entity\CartEntity.class
+com\monochrome\microestore\microestore\MicroestoreApplication.class
